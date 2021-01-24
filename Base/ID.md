@@ -1,0 +1,1 @@
+It is a date written by this template:  ```YYYYMMDDHHMM```

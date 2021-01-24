@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "134874aa01e39979",
+    "type": "split",
+    "children": [
+      {
+        "id": "e97cdf6a99490d6a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c2c214836ea76e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6258525b5ba706f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed660b39bf0c69b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b0c8ae949d6d757",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#lessons",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa211c3977b778bf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277
+  },
+  "right": {
+    "id": "33920f47a8b3e373",
+    "type": "split",
+    "children": [
+      {
+        "id": "16b234c173bc976c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d953cf0e1a9e686c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c858491b189abd98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9ce4ce28001d642",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Base/EBS.md",
+    "Dairy/2021-01-24.md",
+    "Dairy/2021-01-20.md",
+    "Base/Rules.md",
+    "Dairy/2021-01-19.md",
+    "Base/IAM.md",
+    "Base/RDS.md",
+    "Base/Failover.md",
+    "Base/Buckets.md",
+    "Base/RDS Multi-AZ.md"
+  ]
+}
