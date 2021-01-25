@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e97cdf6a99490d6a",
+        "id": "bd5d59f0af260a89",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Objects.md",
-            "mode": "source"
-          }
-        },
-        "group": "ac5b8fee6e74a61e"
-      },
-      {
-        "id": "bf9f334ec334be47",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/Objects.md",
+            "file": "Base/S3 Versioning.md",
             "mode": "preview"
           }
-        },
-        "group": "ac5b8fee6e74a61e"
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Objects.md",
+                "file": "Base/S3 Versioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Objects.md"
+                "file": "Base/S3 Versioning.md"
               }
             }
           }
@@ -128,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Base/S3 Versioning.md",
+    "Base/S3.md",
+    "Base/Key.md",
     "Base/Objects.md",
     "Base/Buckets.md",
-    "Base/S3.md",
     "Base/Security Groups.md",
     "Base/AWS.md",
     "Base/RDS.md",
     "Base/RDS Read Replicas.md",
-    "Base/RDS Encryption.md",
-    "Base/RDS Multi-AZ.md",
-    "Base/Aurora.md"
+    "Base/RDS Encryption.md"
   ]
 }
