@@ -10,10 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dairy/2021-01-25.md",
+            "file": "Base/Objects.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "ac5b8fee6e74a61e"
+      },
+      {
+        "id": "bf9f334ec334be47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Objects.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ac5b8fee6e74a61e"
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dairy/2021-01-25.md",
+                "file": "Base/Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairy/2021-01-25.md"
+                "file": "Base/Objects.md"
               }
             }
           }
@@ -115,15 +128,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Dairy/2021-01-25.md",
-    "Dairy/2021-01-24.md",
-    "Base/EBS.md",
-    "Dairy/2021-01-20.md",
-    "Base/Rules.md",
-    "Dairy/2021-01-19.md",
-    "Base/IAM.md",
+    "Base/Objects.md",
+    "Base/Buckets.md",
+    "Base/S3.md",
+    "Base/Security Groups.md",
+    "Base/AWS.md",
     "Base/RDS.md",
-    "Base/Failover.md",
-    "Base/Buckets.md"
+    "Base/RDS Read Replicas.md",
+    "Base/RDS Encryption.md",
+    "Base/RDS Multi-AZ.md",
+    "Base/Aurora.md"
   ]
 }
