@@ -13,8 +13,8 @@ You can create up to 5 Cross/Within AZ, or Cross Region Read Replicas. Replicati
 
 ![[Read Replicas Disaster Recovery.png|500]]
 
-#### Quick Tip:
-RDS Read Replicas take a fee when data goes from different AZ, to avoid this, you can create Main and Read DB in same AZ. It will **reduce you cost dramatically**.
+#### Quick Tip
+>RDS Read Replicas take a fee when data goes from different AZ, to avoid this, you can create Main and Read DB in same AZ. It will **reduce you cost dramatically**.
 
 ---
 ### Zero-Links

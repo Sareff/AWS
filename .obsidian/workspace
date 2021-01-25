@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "bd5d59f0af260a89",
+        "id": "87d10765f1d79bd8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Base/S3 Versioning.md",
+            "mode": "source"
+          }
+        },
+        "group": "6e6c0e52f8115023"
+      },
+      {
+        "id": "8088a98c284f41fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/S3 Versioning.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "6e6c0e52f8115023"
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lessons",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,14 +129,14 @@
   },
   "lastOpenFiles": [
     "Base/S3 Versioning.md",
+    "Base/RDS Read Replicas.md",
+    "Base/IAM.md",
     "Base/S3.md",
+    "Base/Rules.md",
     "Base/Key.md",
     "Base/Objects.md",
     "Base/Buckets.md",
     "Base/Security Groups.md",
-    "Base/AWS.md",
-    "Base/RDS.md",
-    "Base/RDS Read Replicas.md",
-    "Base/RDS Encryption.md"
+    "Base/AWS.md"
   ]
 }
