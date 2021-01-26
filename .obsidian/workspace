@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "65d564b6bb6eb4ea",
+        "id": "35c4b9d031304869",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/Security Groups.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#concepts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Security Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,12 +98,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/Security Groups.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,15 +110,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Base/Security Groups.md",
-    "Base/S3 Versioning.md",
-    "Base/RDS Read Replicas.md",
-    "Base/IAM.md",
-    "Base/S3.md",
-    "Base/Rules.md",
+    "Templates/0 New note.md",
     "Base/Key.md",
     "Base/Objects.md",
-    "Base/Buckets.md",
-    "Base/AWS.md"
+    "Base/S3.md",
+    "Base/Rules.md",
+    "Base/S3 Versioning.md",
+    "Base/ASG.md",
+    "Base/ELB.md",
+    "Base/RDS Multi-AZ.md",
+    "Files/S3 Versioning.png"
   ]
 }
