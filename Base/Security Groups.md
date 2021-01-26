@@ -1,5 +1,5 @@
 202101201630
-Tags: #
+Tags: #z #aws #lessons #essentials 
 
 ---
 # Security Groups
