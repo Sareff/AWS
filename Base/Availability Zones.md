@@ -4,9 +4,9 @@ Tags: #z #aws #lessons #concepts
 ---
 # Availability Zones
 
-Each region has multiple, isolated locations called Availability Zones. Inside them we can place our AWS resources such as [[EC2]], [[RDS]] and so on... They are isolated by real geographical location between each other (about 100km), but still are inside one [region](Regions)!
+Each region has multiple, isolated locations called Availability Zones. Inside them we can place our AWS resources such as [[EC2]], [[RDS]] and so on... They are isolated by real geographical location between each other (about 100km), but still are inside one[[Regions|region]]!
 
-The Availability Zone is represented by a [region](Regions) code followed by a letter identifier. For example ```us-east-1a``` are a Availability Zone inside ```us-east-1``` region which in its turn are datacenter located at N. Virginia. 
+The Availability Zone is represented by a [[Regions|region]] code followed by a letter identifier. For example ```us-east-1a``` are a Availability Zone inside ```us-east-1``` region which in its turn are datacenter located at N. Virginia. 
 
 This is a scheme: 
 

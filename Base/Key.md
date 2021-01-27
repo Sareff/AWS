@@ -4,7 +4,7 @@ Tags: #z #aws #concepts #essentials
 ---
 # Keys
 
-A Key is a unique identifier for an [object](Objects). Every object that stored in the bucket has exactly one singe key. The combination of a bucket, [version ID](<S3 Versioning>), and key allow us to identify every object in S3.
+A Key is a unique identifier for an [[Objects|object]]. Every object that stored in the bucket has exactly one singe key. The combination of a bucket, [[S3 Versioning|version ID]], and key allow us to identify every object in S3.
 
 The key by itself is a compose of prefix and the object name (from the last example prefix will me ```my\_folder/another_folder/``` and object name ```my_file.txt```).
 

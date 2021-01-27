@@ -13,7 +13,7 @@ Security Groups regulate:
 - Control of inbound network (from other to the instance)
 - Control of outbound network (from the instance to other)
 
-Security Groups are locked down to a [region](Regions) / [[VPC]] combination
+Security Groups are locked down to a [[Regions|region]] / [[VPC]] combination
 
 Example:
 ![[Inbound SG rules.png]]

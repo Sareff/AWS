@@ -15,7 +15,7 @@ RDS, as it's mentioned in its name are Relational Database that runs in AWS and 
 
 RDS has some advantage over EC2 with DB on it. First of all:
 1. RDS fully automated and OS patching by AWS. 
-2. RDS has monitoring dashboard, backups, [Multi-AZ](<RDS Multi-AZ>), [Scaling capabilities](<RDS Autoscaling>), [EBS storage](EBS), **BUT**, in exchange, you can’t [[SSH]] into RDS instance.
+2. RDS has monitoring dashboard, backups, [[RDS Multi-AZ|Multi-AZ]], [[RDS Autoscaling|Scaling capabilities]], [[EBS|EBS storage]], **BUT**, in exchange, you can’t [[SSH]] into RDS instance.
 
 But, on the other hand, RDS have similar capabilities with EC2, such as: [[RDS Encryption]]
 

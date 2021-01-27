@@ -11,7 +11,7 @@ There are 4 methods of encrypting objects on S3:
 -   **SSE-C** - when you want to manage your own encryption
 -   **Client-Side Encryption** - Fully manageable by user encryption process 
 
-The last two methods only provided in a [CLI](<AWS CLI>), in GUI there are only S3 and [[KMS]] methods. (LOL)
+The last two methods only provided in a [[AWS CLI|CLI]], in GUI there are only S3 and [[KMS]] methods. (LOL)
 
 ---
 

@@ -4,7 +4,7 @@ Tags: #z #aws #lessons #qt
 ---
 # S3 Versioning
 
-Versioning by it means is a keeping several versions of an [object](Objects) in the same [bucket](Buckets).
+Versioning by it means is a keeping several versions of an [[Objects|object]] in the same [[Buckets|buckets]].
 
 By enabling versioning while creating a bucket (or adding this function later in configuration) you can upload same file several times with small changes and every its iteration will be versioned (1, 2, 3, and so on…). 
 

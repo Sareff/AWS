@@ -10,10 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/S3.md",
+            "file": "Base/SSH.md",
+            "mode": "source"
+          }
+        },
+        "group": "617e5f171169688f"
+      },
+      {
+        "id": "2292ede541c0c09d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/SSH.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "617e5f171169688f"
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/S3.md",
+                "file": "Base/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/S3.md"
+                "file": "Base/SSH.md"
               }
             }
           }
@@ -116,15 +129,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Base/S3.md",
-    "Base/Buckets.md",
-    "Base/S3 Encryption.md",
-    "Base/S3 ACL.md",
-    "Base/S3 Bucket Policies.md",
+    "Base/SSH.md",
+    "Base/VPC.md",
+    "Base/Subnets.md",
     "Base/Spot Fleets.md",
-    "Base/IAM.md",
+    "Base/Security Groups.md",
     "Base/S3 Versioning.md",
-    "Base/Rules.md",
-    "Base/RDS Read Replicas.md"
+    "Base/S3 Encryption.md",
+    "Base/S3.md",
+    "Base/S3 Bucket Policies.md",
+    "Base/S3 ACL.md"
   ]
 }
