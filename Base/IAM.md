@@ -11,7 +11,9 @@ AWS Identity and Access Management (IAM) enables you to manage access to AWS ser
 - **Roles** for AWS internal resources, such as EC2 instance and so on.
 - **Policies** (JSON Documents) for definition what they can and cannot do.
 
-IAM is one of services that has **a Global View** (not belong for any Region or AZ)
+IAM is one of services that has a **Global View** (not belong for any Region or AZ)
+
+---
 
 #### Quick Tip
 > It’s best to give users the **minimal** amount of permissions they need to perform their job (least privilege principles).

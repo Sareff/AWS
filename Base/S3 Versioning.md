@@ -12,6 +12,8 @@ Versioning allows you protect yourself against unintended deletes and also make 
 
 ![[S3 Versioning.png]]
 
+---
+
 #### Quick Tip
 
 > Disabling (Suspend) Versioning doesn't delete previous versions. 

@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "35c4b9d031304869",
+        "id": "470c51cf42a9d809",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/S3.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concepts",
+                "query": "tag:#qt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/S3.md"
+              }
             }
           }
         ],
@@ -110,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Templates/0 New note.md",
-    "Base/Key.md",
-    "Base/Objects.md",
     "Base/S3.md",
-    "Base/Rules.md",
+    "Base/Buckets.md",
+    "Base/S3 Encryption.md",
+    "Base/S3 ACL.md",
+    "Base/S3 Bucket Policies.md",
+    "Base/Spot Fleets.md",
+    "Base/IAM.md",
     "Base/S3 Versioning.md",
-    "Base/ASG.md",
-    "Base/ELB.md",
-    "Base/RDS Multi-AZ.md",
-    "Files/S3 Versioning.png"
+    "Base/Rules.md",
+    "Base/RDS Read Replicas.md"
   ]
 }
