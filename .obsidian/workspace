@@ -4,29 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "470c51cf42a9d809",
+        "id": "cd24cf11323a25cc",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/SSH.md",
-            "mode": "source"
-          }
-        },
-        "group": "617e5f171169688f"
-      },
-      {
-        "id": "2292ede541c0c09d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/SSH.md",
-            "mode": "preview"
-          }
-        },
-        "group": "617e5f171169688f"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/SSH.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -129,6 +110,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Base/S3 Bucket Policies.md",
+    "Base/S3.md",
     "Base/SSH.md",
     "Base/VPC.md",
     "Base/Subnets.md",
@@ -136,8 +119,6 @@
     "Base/Security Groups.md",
     "Base/S3 Versioning.md",
     "Base/S3 Encryption.md",
-    "Base/S3.md",
-    "Base/S3 Bucket Policies.md",
     "Base/S3 ACL.md"
   ]
 }
