@@ -14,7 +14,32 @@ A policy contains this basic set of elements:
 - [[Principal]] - The user, account, service or other entity that is the recipient of permission.
 - [[Condition]] - The if statement that activates when policy is active.
 
+This is a example of usual bucket policy JSON syntax:
 
+```json
+{
+    "Version": "2012-10-17",
+    "Id": "ExamplePolicy01",
+    "Statement": [
+        {
+            "Sid": "ExampleStatement01",
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": "arn:aws:iam::123456789012:user/Dave"
+            },
+            "Action": [
+                "s3:GetObject",
+                "s3:GetBucketLocation",
+                "s3:ListBucket"
+            ],
+            "Resource": [
+                "arn:aws:s3:::awsexamplebucket1/*",
+                "arn:aws:s3:::awsexamplebucket1"
+            ]
+        }
+    ]
+}
+```
 
 ---
 ### Zero-Links

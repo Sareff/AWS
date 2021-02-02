@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd24cf11323a25cc",
+        "id": "906469a0a0a38ec1",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/S3 Bucket Policies.md",
+            "file": "Base/Resources.md",
             "mode": "source"
           }
-        },
-        "group": "47bffa70ae253f9f"
-      },
-      {
-        "id": "6499b55fb523e570",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/S3 Bucket Policies.md",
-            "mode": "preview"
-          }
-        },
-        "group": "47bffa70ae253f9f"
+        }
       }
     ],
     "direction": "vertical"
@@ -74,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277
+    "width": 277,
+    "collapsed": true
   },
   "right": {
     "id": "33920f47a8b3e373",
@@ -90,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/S3 Bucket Policies.md",
+                "file": "Base/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/S3 Bucket Policies.md"
+                "file": "Base/Resources.md"
               }
             }
           }
@@ -129,6 +117,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Base/Resources.md",
     "Base/S3 Bucket Policies.md",
     "Base/S3.md",
     "Base/SSH.md",
@@ -137,7 +126,6 @@
     "Base/Spot Fleets.md",
     "Base/Security Groups.md",
     "Base/S3 Versioning.md",
-    "Base/S3 Encryption.md",
-    "Base/S3 ACL.md"
+    "Base/S3 Encryption.md"
   ]
 }
