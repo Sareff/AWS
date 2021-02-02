@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "906469a0a0a38ec1",
+        "id": "8ccec9b95f4f424e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Resources.md",
+            "file": "Base/IAM Policies and Permissions.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Resources.md",
+                "file": "Base/IAM Policies and Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Resources.md"
+                "file": "Base/IAM Policies and Permissions.md"
               }
             }
           }
@@ -117,15 +117,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Base/Resources.md",
+    "Base/IAM Policies and Permissions.md",
     "Base/S3 Bucket Policies.md",
+    "Base/IAM.md",
+    "Base/Resources.md",
+    "Base/Principal.md",
+    "Base/Effect.md",
+    "Base/Actions.md",
     "Base/S3.md",
     "Base/SSH.md",
-    "Base/VPC.md",
-    "Base/Subnets.md",
-    "Base/Spot Fleets.md",
-    "Base/Security Groups.md",
-    "Base/S3 Versioning.md",
-    "Base/S3 Encryption.md"
+    "Base/VPC.md"
   ]
 }

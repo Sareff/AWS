@@ -18,8 +18,6 @@ Therefore the Amazon S3 ARN for resources will look like:
 
 	arn:aws:s3:::bucket_name/key_name
 
-
-
 ---
 ### Zero-Links
 - 

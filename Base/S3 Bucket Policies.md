@@ -4,7 +4,7 @@ Tags: #z #aws #lessons
 ---
 # Bucket Policies
 
-A bucket policy is a resource-based AWS [[IAM]] policy. You create a bucket policy to grant access to a bucket to other AWS accounts or [[IAM]] users access permissions for the bucket and objects in it.
+A bucket policy is a resource-based AWS [[IAM Policies and Permissions|IAM]] policy. You create a bucket policy to grant access to a bucket to other AWS accounts or IAM users access permissions for the bucket and objects in it.
 
 A policy contains this basic set of elements:
 

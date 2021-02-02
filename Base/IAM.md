@@ -13,6 +13,8 @@ AWS Identity and Access Management (IAM) enables you to manage access to AWS ser
 
 IAM is one of services that has a **Global View** (not belong for any Region or AZ)
 
+By using IAM we can also create and edit policies. For more information go to [[IAM Policies and Permissions]]
+
 ---
 
 #### Quick Tip
