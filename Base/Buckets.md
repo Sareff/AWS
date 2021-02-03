@@ -4,7 +4,7 @@ Tags: #z #aws #concepts #essentials
 ---
 # Buckets in S3
 
-A bucket is a container for your [[Objects|objects]] in S3. For example, if you have file (object) with path ```x/y.txt``` that is stored in bucket ```awssamplebucket34``` in the US West (Oregon) Region, then this object is addressable using this URL: ```https://awssamplebucket34.s3.us-west-2.amazonaws.com/x/y.txt```
+A bucket is a container for your [[S3 Objects|objects]] in S3. For example, if you have file (object) with path ```x/y.txt``` that is stored in bucket ```awssamplebucket34``` in the US West (Oregon) Region, then this object is addressable using this URL: ```https://awssamplebucket34.s3.us-west-2.amazonaws.com/x/y.txt```
 
 Buckets serve several purposes inside S3:
 - To organize data in Amazon S3 at the highest level - namespaces
@@ -20,4 +20,4 @@ Buckets serve several purposes inside S3:
 ---
 ### Links
 - [[S3]]
-- [[Objects]]
+- [[S3 Objects]]
