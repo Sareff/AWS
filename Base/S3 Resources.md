@@ -24,5 +24,6 @@ Therefore the Amazon S3 ARN for resources will look like:
 ---
 ### Links
 - [[S3 Bucket Policies]]
+- [[Resources]]
 - [[Regions]]
 - [[Namespaces]]

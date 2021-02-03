@@ -19,4 +19,5 @@ The ```Effect``` element is required to specify whether the statement results in
 - 
 ---
 ### Links
--
+- [[S3 Bucket Policies]]
+- [[Effect]]

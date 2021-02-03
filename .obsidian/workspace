@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8ccec9b95f4f424e",
+        "id": "26586beb7c8f551c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/S3.md",
-            "mode": "preview"
+            "file": "Base/IAM Policies and Permissions.md",
+            "mode": "source"
           }
         }
       }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277
+    "width": 277,
+    "collapsed": true
   },
   "right": {
     "id": "33920f47a8b3e373",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/S3.md",
+                "file": "Base/IAM Policies and Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/S3.md"
+                "file": "Base/IAM Policies and Permissions.md"
               }
             }
           }
@@ -115,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Base/S3.md",
-    "Base/S3 Objects.md",
+    "Base/IAM Policies and Permissions.md",
+    "Base/Internal storage.md",
+    "Base/VPC.md",
+    "Base/00 Computer Science.md",
     "Base/S3 Principal.md",
     "Base/S3 Bucket Policies.md",
-    "Base/Launch type.md",
-    "Base/Objects.md",
-    "Base/Principal.md",
-    "Base/IAM Policies and Permissions.md",
-    "Base/Resources.md",
-    "Base/IAM.md"
+    "Base/S3 Resources.md",
+    "Dairy/2021-01-20.md",
+    "Base/Aurora.md",
+    "Base/EC2.md"
   ]
 }
