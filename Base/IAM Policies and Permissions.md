@@ -12,8 +12,8 @@ IAM policies define especially permissions for an action, but not the method tha
 
 This is a policy types, sorted by frequency, that are available for use in AWS:
 
-- [[Identity-based policies]] - Attach managed and inline 
-- [[Resource-based policies]]
+- [[Identity-based policies]] - Attach managed and inline policies to IAM identity. This type of policy grant permissions to an identity.
+- [[Resource-based policies]] - Attach inline policies to resources. The most common examples of such type policy is a [[S3 Bucket Policies]] and IAM role trust policies. Resource-based policies grant permissions to the principal that is specified in the policy.
 - [[Permissions boundaries]]
 - [[Organizations SCPs]]
 - [[Access control lists]]
