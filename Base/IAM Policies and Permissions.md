@@ -12,7 +12,7 @@ IAM policies define especially permissions for an action, but not the method tha
 
 This is a policy types, sorted by frequency, that are available for use in AWS:
 
-- [[Identity-based policies]]
+- [[Identity-based policies]] - Attach managed and inline 
 - [[Resource-based policies]]
 - [[Permissions boundaries]]
 - [[Organizations SCPs]]
