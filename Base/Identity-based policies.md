@@ -10,7 +10,7 @@ There is three main categories of Identity-based policies:
 - **Managed policies** - Single policies that can be attached to multiple identities in AWS account. Divides in two:
 	- **AWS Managed policies** - Managed policies that are created by AWS.
 	- **Customer managed policies** - Managed policies that you create and manage in your AWS account. These policies are way more deep in customization that AWS's ones.
-- **Inline policies** - 
+- **Inline policies** - Policies that you add directly to a specific single identity. These policies maintain a strict one-to-one relationship between a policy and an identity.
 
 [^1]: Users, Groups, and Roles.
 
