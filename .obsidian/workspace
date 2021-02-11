@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dairy/2021-01-24.md",
-            "mode": "preview"
+            "file": "Base/Identity-based policies.md",
+            "mode": "source"
           }
         }
       }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277
+    "width": 277,
+    "collapsed": true
   },
   "right": {
     "id": "33920f47a8b3e373",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dairy/2021-01-24.md",
+                "file": "Base/Identity-based policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairy/2021-01-24.md"
+                "file": "Base/Identity-based policies.md"
               }
             }
           }
@@ -115,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Dairy/2021-01-24.md",
     "Base/Identity-based policies.md",
+    "Dairy/2021-02-11.md",
+    "Dairy/2021-02-10.md",
+    "Dairy/2021-01-24.md",
     "Base/AMI.md",
     "Base/00 Computer Science.md",
     "Base/00 AWS.md",
     "Base/EC2.md",
     "Base/Rules.md",
-    "Base/IAM Policies and Permissions.md",
-    "Dairy/2021-02-10.md",
-    "Base/Internal storage.md"
+    "Base/IAM Policies and Permissions.md"
   ]
 }
