@@ -8,7 +8,7 @@ Resource-based policies are JSON policy documents that you attach to a resource 
 
 ![[Identity and Resource -based policies.png | 450]]
 
-The IAM service support only one type of resource-based policy called a role *trust policy*, which is attached to an IAM role.
+The IAM service support only one type of resource-based policy called a role *trust policy*, which is attached to an IAM role. An IAM role is both an identity and a resource that supports resource-based policies. 
 
 [^1]: policies that attach only to one identity and deletes only with it
 
