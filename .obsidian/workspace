@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ee68e008f8a5e9be",
+        "id": "20e04a52b7556b33",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Identity-based policies.md",
+            "file": "Base/Resource-based policies.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Identity-based policies.md",
+                "file": "Base/Resource-based policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Identity-based policies.md"
+                "file": "Base/Resource-based policies.md"
               }
             }
           }
@@ -116,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Base/Resource-based policies.md",
+    "Base/IAM Policies and Permissions.md",
+    "Templates/0 New note.md",
     "Base/Identity-based policies.md",
     "Dairy/2021-02-11.md",
     "Dairy/2021-02-10.md",
     "Dairy/2021-01-24.md",
     "Base/AMI.md",
     "Base/00 Computer Science.md",
-    "Base/00 AWS.md",
-    "Base/EC2.md",
-    "Base/Rules.md",
-    "Base/IAM Policies and Permissions.md"
+    "Base/00 AWS.md"
   ]
 }
