@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "20e04a52b7556b33",
+        "id": "a1a6548281ca677c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Resource-based policies.md",
+            "file": "Dairy/2021-02-15.md",
             "mode": "source"
           }
         }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277,
-    "collapsed": true
+    "width": 277
   },
   "right": {
     "id": "33920f47a8b3e373",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Resource-based policies.md",
+                "file": "Dairy/2021-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Resource-based policies.md"
+                "file": "Dairy/2021-02-15.md"
               }
             }
           }
@@ -116,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Base/Resource-based policies.md",
-    "Base/IAM Policies and Permissions.md",
-    "Templates/0 New note.md",
-    "Base/Identity-based policies.md",
+    "Dairy/2021-02-15.md",
     "Dairy/2021-02-11.md",
-    "Dairy/2021-02-10.md",
+    "Dairy/2021-01-19.md",
+    "Dairy/2021-01-20.md",
     "Dairy/2021-01-24.md",
-    "Base/AMI.md",
-    "Base/00 Computer Science.md",
-    "Base/00 AWS.md"
+    "Dairy/2021-01-25.md",
+    "Dairy/2021-02-10.md",
+    "Base/S3 Resources.md",
+    "Base/IAM Policies and Permissions.md",
+    "Base/Access control lists.md"
   ]
 }

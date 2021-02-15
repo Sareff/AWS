@@ -14,10 +14,10 @@ This is a policy types, sorted by frequency, that are available for use in AWS:
 
 - [[Identity-based policies]] - Attach managed and inline policies to IAM identity. This type of policy grant permissions to an identity.
 - [[Resource-based policies]] - Attach inline policies to resources. The most common examples of such type policy is a [[S3 Bucket Policies]] and IAM role trust policies. Resource-based policies grant permissions to the principal that is specified in the policy.
-- [[Permissions boundaries]]
-- [[Organizations SCPs]]
-- [[Access control lists]]
-- [[Session policies]]
+- [[Permissions boundaries]] - Use a managed policy to boundary permissions for an IAM identity. This policy defines how many permissions identity-based policy can grant to one identity, but can't do the same with resource-based policy.
+- [[Organizations SCPs]] - Use [[AWS Organizations Service Control]] policy (SCP) to define the maximum permissions for account members of an organization or organizational unit (OU). SCPs limit permissions that identity-based policies or resource-based policies grant to entities within the account, but do not grant permissions.
+- [[Access Control Lists]] - ACLs used to control which principals in other accounts can access the resource to which ACL is attached. ACLs are similar to resource-based policies even though they aren't use JSON policy document structure. ACLs oriented on outer accounts, but not inner ones. 
+- [[Session policies]] - Pass advanced session policies when you use the AWS CLI or AWS API to assume a role or a federated user. Session policies limit the permissions that the role or user's identity-based policies grant to the session. Session policies limit permissions for a created session, but do not grant permissions. (Not so much important for me :P )
 	
 ---
 ### Zero-Links
